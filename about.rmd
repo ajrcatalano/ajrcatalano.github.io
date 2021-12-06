@@ -1,0 +1,9 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+My name is AJ. I am currently exploring the Southwest through climbing. When I am not climbing, I enjoy reading, cooking, and making techno with desktop synthesizers and drum machines. I do not understand pets.
