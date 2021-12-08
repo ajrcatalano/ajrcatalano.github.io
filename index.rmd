@@ -12,17 +12,17 @@ output:
 
 # Links
 
-#### Webpages
+# Webpages
 
 * [Google](https://google.com)
 * [P8105](https://www.p8105.com)
 
-#### Local images
+# Local images
 
 Here is a poorly designed modular groovebox:
 
 ![](images/modular.png)
 
-#### Linking pages within website
+# Linking pages within website
 
 [About me](about.html)
